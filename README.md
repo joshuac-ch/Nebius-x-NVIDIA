@@ -65,7 +65,6 @@ Variables de entorno:
 - La herramienta es **solo informativa**: no emite diagnósticos ni recomienda tratamientos.
 - Toda respuesta incluye un aviso para consultar a un profesional de la salud.
 - Ante valores muy alterados, el agente recomienda atención médica oportuna en lugar de especular.
-- `[Indicar cómo se manejan los datos: no se almacenan / se procesan solo en la sesión, etc.]`
 
 ## Hoja de ruta
 
