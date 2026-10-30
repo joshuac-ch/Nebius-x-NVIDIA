@@ -38,10 +38,10 @@ Decisión de diseño importante: **la comparación contra los rangos de referenc
 
 ## Tecnologías
 
-- **Modelo:** NVIDIA Nemotron `[indicar el modelo exacto usado]`
+- **Modelo:** NVIDIA Nemotron `[nemo, nano super]`
 - **Infraestructura:** Nebius Token Factory
 - **Búsqueda:** Tavily
-- **App:** `[indicar stack: frontend / backend]`
+- **App:** `[python, fastapi, cuda, uvicorn, poetry, tensores, modelos open source]`
 
 ## Instalación y uso
 
